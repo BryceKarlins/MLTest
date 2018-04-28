@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Pause>length=5</pause>
   <Say voice="woman">Sorry, an error occured in percentile dot m. please ensure that you input a valid team number.</Say>
 </Response>
