@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Pause>length=5</pause>
   <Say voice="woman">Sorry, an error occured in years particip dot m. the inputted team number does not exist.</Say>
 </Response>
