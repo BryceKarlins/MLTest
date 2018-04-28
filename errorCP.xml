@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Pause>length=5</pause>
-  <Say voice="alice">Sorry, there was an error with one or more of your inputs in Compare Scores dot m, please ensure your all of your team numbers are valid and try again.</Say>
+  <Say voice="alice">Sorry, there was an error with one or more of your inputs in Compare Scores dot m, please ensure that all of your team numbers are valid and try again.</Say>
 </Response>
